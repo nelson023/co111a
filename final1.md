@@ -1,4 +1,3 @@
-1
 # 如何設計電腦 -- 還有讓電腦變快的那些方法 
 網址:https://www.slideshare.net/ccckmit/ss-85466673
 ---
@@ -42,6 +41,12 @@
 
 具有上百個浮點乘法與加法的運算單元，這類運算會比CPU快 螢幕繪製需要很多這類運算，所以螢幕繪圖上的GPU會比CPU快幾十、幾百倍
 
+
+
+
+
+
+
 ---
 ### 參考資料:
 [多層次快取](https://zh.m.wikipedia.org/wiki/%E8%A8%98%E6%86%B6%E9%AB%94%E9%9A%8E%E5%B1%A4)
@@ -49,3 +54,4 @@
 [管線機制](https://zh.m.wikipedia.org/wiki/%E6%8C%87%E4%BB%A4%E7%AE%A1%E7%B7%9A%E5%8C%96)
 
 [多核心](https://zh.m.wikipedia.org/wiki/%E5%A4%9A%E6%A0%B8%E5%BF%83%E8%99%95%E7%90%86%E5%99%A8)
+
